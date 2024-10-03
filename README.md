@@ -11,4 +11,4 @@ Join us to:
 * Learn from other users' real-world experiences and projects."
 
 ## Contributing
-We welcome contributions! If you'd like to share a new testing schedule, improve API usage examples, or offer feedback, please follow the contribution guide.
+We welcome contributions! If you'd like to share a new testing schedule, improve API usage examples, or offer feedback, please follow the [contribution guide](https://github.com/Arbin-com/Arbin-User-Network/blob/main/CONTRIBUTION.md).
