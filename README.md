@@ -26,13 +26,13 @@ This repository is organized into three main sections, each serving a specific p
 | --- Tips_and_Tricks/
 ```
 
-### 1. API_Implementations
+### API_Implementations
 This folder contains code examples and scripts for using the Arbin API. Whether you're automating test setups, collecting data, or building custom integrations, you can find (or contribute) resources here.
 
-### 2. Testing_Schedules
+### Testing_Schedules
 The Testing Schedules folder is where users can share and download unique battery testing protocols used with Arbin cyclers. If you've created a custom test for a specific battery chemistry or experimental condition, please share it!
 
-### 3. Tips_and_Tricks
+### Tips_and_Tricks
 The Tips and Tricks section is for sharing insights, optimizations, and small improvements that can enhance the use of Arbin products. Whether it’s improving test accuracy, optimizing performance, or finding easier ways to work with the data, feel free to share your expertise.
 
 ## Reporting Issues
