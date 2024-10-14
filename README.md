@@ -35,5 +35,14 @@ The Testing Schedules folder is where users can share and download unique batter
 ### 3. Tips_and_Tricks
 The Tips and Tricks section is for sharing insights, optimizations, and small improvements that can enhance the use of Arbin products. Whether it’s improving test accuracy, optimizing performance, or finding easier ways to work with the data, feel free to share your expertise.
 
+## Reporting Issues
+If you encounter any problems or bugs while using the Arbin User Network or its resources, please open an issue in this repository. This will help us track and address issues efficiently.
+
+When opening an issue, please provide the following information:
+
+* Description of the issue 
+* Steps to reproduce
+* Relevant code or configuration 
+
 ## Acknowledgments
 Acknowledge any libraries, resources, or individuals that contributed to your project.
