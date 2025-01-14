@@ -8,7 +8,7 @@ This repository serves as a collaborative space for scientists, engineers, and r
 Join us to:
 * Provide a shared space for users to discuss the **Arbin API** and its implementation.
 * Exchange **custom battery testing schedules**.
-* Share **tips, tricks, and insights** that improve workflows.
+* Share **tips, tricks, and useful tools** that improve workflows.
 * Offer **support** through collaboration and knowledge-sharing between users.
 
 Whether you're new to Arbin's products or an experienced user, we encourage you to join the conversation, share your experiences, and contribute to the growing knowledge base.
