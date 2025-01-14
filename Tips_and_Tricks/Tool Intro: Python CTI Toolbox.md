@@ -1,4 +1,4 @@
-# ArbinCTI Toolbox for Python
+# ArbinCTI Toolbox for Python ([Repo Link](https://github.com/shoufang-w-arbin/ArbinCTI-Toolbox-Python/tree/main))
 `ctitoolbox` is a Python package designed to interact with ArbinCTI, a C# library, with a more pythonic programming experience. 
 
 ## Key Features
