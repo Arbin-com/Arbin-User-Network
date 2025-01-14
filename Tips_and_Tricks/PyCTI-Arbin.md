@@ -8,7 +8,7 @@ This package organizes and combines ArbinCTI commands, offering an **API that si
 - Integrate Arbin data analysis into your existing Python workflows
 - Cycler and channel control simulation
 
-Known Issues and Recent Fixes
+## Known Issues and Recent Fixes
 Users have reported:
 - Installation challenges
 - Undocumented supported MITS and CTI versions
