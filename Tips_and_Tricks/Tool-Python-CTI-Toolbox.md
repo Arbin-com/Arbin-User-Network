@@ -1,8 +1,8 @@
-# ArbinCTI Toolbox for Python ([Repo Link](https://github.com/shoufang-w-arbin/ArbinCTI-Toolbox-Python/tree/main))
-`ctitoolbox` is a Python package designed to interact with ArbinCTI, a C# library, with a more pythonic programming experience. 
+# ArbinCTI Toolbox for Python ([Repo Link](https://github.com/shoufang-w-arbin/Arbin-Toolbox-Python))
+`arbintoolbox` is a Python package designed to interact with ArbinCTI, a C# library, with a more pythonic programming experience. 
 
 ## Key Features
-- Provide wrapper classes for ArbinCTI C# objects, enabling swift bi-directional translation and quick data inspection.
+- Provide wrapper classes for ArbinCTI/ArbinClient C# objects, enabling swift bi-directional translation and quick data inspection.
 - Allow keyword arguments when creating ArbinCTI objects
 - Object attributes are discoverable by Pylance, avoiding human errors and irritating unknown type errors when programming
 
